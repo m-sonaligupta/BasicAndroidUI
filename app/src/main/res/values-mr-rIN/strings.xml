@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="Play">गाणे खेळा</string>
+    <string name="right_button_text">पुढील गाणे</string>
+    <string name="left_button_text">मागील गाणे</string>
+</resources>
